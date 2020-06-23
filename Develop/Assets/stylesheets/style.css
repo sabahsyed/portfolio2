@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
 body{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Poppins';font-size: 20px;
   color: #f36c17;
   background-color: #303030;
 }
@@ -35,6 +35,6 @@ a{
   color:#c0a695 !important;
 }
 .projectMargin{
-  margin: 30px;
+  margin: 50px;
   text-align: center;
 }
