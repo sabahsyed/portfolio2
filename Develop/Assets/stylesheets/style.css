@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #f36c17;
+  background-color: #303030;
+}
+.name .profile{
+  color: #f36c17 !important;
+}
+#sabahImg,img {
+  height:400px; 
+  width:400px; 
+  border-radius: 50%; 
+  margin: 50px;
+}
+.jumbotron .jumbotron-fluid{
+ background-color: #303030;
+}
+.aboutMe{
+  margin-top:70px;
+  left:10%;
+}
+.card-body{
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+  margin-left:40%;
+  
+}
