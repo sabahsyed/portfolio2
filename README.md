@@ -1,62 +1,32 @@
-# Portfolio Updated
+# Portfolio-2  Updated
 
-## Requirements
+## Table of Contents
+### About
+### What does it have ?
+### Screenshots
 
-* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
+## About
 
-* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
+This is an updated portolio with our latest Project- Sentiment Check and 4 exemplary assignments. We have created an intercative and mobile responsive application that has links to different pages like resume, links and projects.
 
-* Updated resume
+## What does it have ?
 
-* Updated LinkedIn profile
+**Home** page introduces the user's intro.
+**Links** page has href links to GitHub, LinkedIn and e-mail.
+**Projects** page has links to all the included projects.
 
+## Screenshots
 
-## Instructions
+![SabahSyedPortfolioScreenshot](https://github.com/sabahsyed/portfolio2/blob/master/Develop/Screen%20Shot%202020-06-27%20at%2012.48.43%20PM.png)
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+![SabahSyedPortfolioScreenshot](https://github.com/sabahsyed/portfolio2/blob/master/Develop/Screen%20Shot%202020-06-27%20at%2012.48.49%20PM.png)
 
-### Updated Portfolio
+![SabahSyedPortfolioScreenshot](https://github.com/sabahsyed/portfolio2/blob/master/Develop/Screen%20Shot%202020-06-27%20at%2012.49.14%20PM.png)
 
-Your updated site should have the following content:
-
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * Screenshot of the deployed application
+![SabahSyedPortfolioScreenshot](https://github.com/sabahsyed/portfolio2/blob/master/Develop/Screen%20Shot%202020-06-27%20at%2012.49.19%20PM.png)
 
 
-### Updated GitHub Profile 
 
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
-
-    * Profile picture
-
-    * Bio
-
-    * Location
-
-    * Email
-
-    * Link to your portfolio
-
-
-### Updated Resume 
-
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
 
 
 ### Updated LinkedIn Profile 
