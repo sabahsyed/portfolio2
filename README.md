@@ -29,10 +29,4 @@ This is an updated portolio with our latest Project- Sentiment Check and 4 exemp
 
 
 
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+### Thank you !
